@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace BreakTimers.Controls
+namespace BreakTimers.Views.Controls
 {
     /// <summary>
     /// Interaction logic for Timer.xaml
