@@ -17,16 +17,16 @@
     <Folder Include="Models\DTO\" />
     <Folder Include="Models\Entity\" />
     <Folder Include="Models\Domain\" />
-    <Folder Include="Converters\" />
-    <Folder Include="Commands\" />
+    <Folder Include="Helpers\Converters\" />
+    <Folder Include="Helpers\Commands\" />
     <Folder Include="Infrastructures\Navigations\" />
     <Folder Include="Infrastructures\DI\" />
     <Folder Include="Infrastructures\Configurations\" />
-    <Folder Include="Resources\Themes\" />
+	<Folder Include="Resources\Styles\" />
+	<Folder Include="Resources\Themes\" />
     <Folder Include="Services\Interfaces\" />
     <Folder Include="Services\Implementations\" />
     <Folder Include="ViewModels\" />
-    <Folder Include="Resources\Styles\" />
     <Folder Include="Views\Pages\" />
   </ItemGroup>
 
