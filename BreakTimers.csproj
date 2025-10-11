@@ -11,18 +11,15 @@
   <ItemGroup>
     <Folder Include="Assets\Icons\" />
     <Folder Include="Assets\Images\" />
-    <Folder Include="Assets\Fonts\" />
-    <Folder Include="Helpers\" />
-    <Folder Include="Infrastructures\Data\" />
+    <Folder Include="Assets\Fonts\" />    
+	<Folder Include="Infrastructures\Data\" />
     <Folder Include="Models\DTO\" />
     <Folder Include="Models\Entity\" />
     <Folder Include="Models\Domain\" />
-    <Folder Include="Helpers\Converters\" />
     <Folder Include="Helpers\Commands\" />
     <Folder Include="Infrastructures\Navigations\" />
     <Folder Include="Infrastructures\DI\" />
     <Folder Include="Infrastructures\Configurations\" />
-	<Folder Include="Resources\Styles\" />
 	<Folder Include="Resources\Themes\" />
     <Folder Include="Services\Interfaces\" />
     <Folder Include="Services\Implementations\" />

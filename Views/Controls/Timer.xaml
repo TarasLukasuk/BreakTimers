@@ -6,5 +6,5 @@
              xmlns:local="clr-namespace:BreakTimers.Views.Controls"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <Border Style="{StaticResource RoundedGrid}" Background="White"/>
+    <Border Background="White" Width="{Binding ActualHeight, RelativeSource={RelativeSource AncestorType=UserControl}}" Height="{Binding ActualHeight, RelativeSource={RelativeSource AncestorType=UserControl}}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
 </UserControl>
